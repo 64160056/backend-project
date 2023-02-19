@@ -1,9 +1,7 @@
-import { OrderItem } from 'src/orders/entities/order-item';
 import {
   Entity,
   PrimaryGeneratedColumn,
   Column,
-  OneToMany,
   CreateDateColumn,
   UpdateDateColumn,
   DeleteDateColumn,
